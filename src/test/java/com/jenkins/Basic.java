@@ -7,6 +7,6 @@ public class Basic {
 	@Test
 	public void display()
 	{
-		System.out.println("Jenkins passed");
+		System.out.println("++++++++++++++++++++++++++++++++++passed++++++++++++++++++++++++++++++");
 	}
 }
